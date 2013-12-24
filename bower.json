@@ -1,5 +1,5 @@
 {
-  "name": "flight-mustache",
+  "name": "flight-handlebars",
   "version": "0.1.0",
   "description": "A Flight component for rendering Handlebars templates with handlebars.js",
   "dependencies": {
